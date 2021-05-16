@@ -12,6 +12,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cytoly&label=Profile%20views&color=0e75b6&style=flat" alt="cytoly" /> </p>
 </p> 
-
-
-# this is my new account, my old account got suspended by github.
